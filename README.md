@@ -30,7 +30,7 @@ Y alguna más...
 ## Contacto y apoyo:
 
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodolfo.swift.dev@gmail.com)
+(mailto:rodolfo.swift.dev@gmail.com)
 </br>
 
 <!--
