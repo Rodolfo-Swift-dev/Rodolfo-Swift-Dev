@@ -22,7 +22,7 @@ Y alguna más...
 ## Encuéntrame en:
 
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/rodolfo-gonzalez-83ba84258/)
+(https://www.linkedin.com/in/rodolfo-gonzalez-83ba84258/)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. 
 
