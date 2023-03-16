@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Rod.Dev 👋😀
+# Hola, mi nombre es Rod.Dev 👋😀
 ### Developer iOS Jr.
-
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 Soy desarrollador iOS autodidacta desde hace un año.
 
